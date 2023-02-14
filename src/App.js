@@ -145,8 +145,28 @@ function App() {
     </Figure>
 
 
+    <Card.Text>
+          <small className="font-weight-light">
+          <p className="text-start fs-6">
+          He lowered his head as he closed his eyes, Thinking back on his last moments on that cursed soil, and on his last interactions with his closest friends: Baron Vandran of Zeramas, Octavius, Tyr... and finally, his second, Astraea. Their faces would flash before his eyes. Their determination, their smiles... their sacrifice. 
+        
+          </p>
+          </small>
+          </Card.Text>
 
       
+
+
+
+          <Card.Text>
+       <small className="font-weight-light">
+       <p className="text-start fs-6">
+       Silently, he shed a single tear in their memory, then opened his eyes again as he rose his head high once more, donning his helmet. He took the flyer off the wall, holding it in the palm of his hand as he stared at it.
+          <i>"I'll find you brothers... hang in there."</i> he whispered as he clenched his fist holding the note. Finally, he'd return to the table to pick up his compass and take the stairs, ascending out of the crypt hall.
+       </p>
+       </small>
+       </Card.Text>
+
 
        
 
